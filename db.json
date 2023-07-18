@@ -1,0 +1,74 @@
+{
+    "movies" : [
+        {
+            "id":1,
+            "name":"Cold Case",
+            "photos":"https://i.postimg.cc/MKJ43qJx/cold-case-movie.jpg",
+            "staring":"Prithvi Raj , Athmiya ",
+            "Published date":"2020"
+        },
+        {
+            "id":2,
+            "name":"Sita ramam",
+            "photos":"https://i.postimg.cc/8k4W9mq5/sitaramam.jpg",
+            "staring":"Dulquar salman , Mrunnal Takir , Rashmika Mandhana ",
+            "Published date":"2022"
+        },
+        {
+            "id":3,
+            "name":"Ayyappanum Koshi",
+            "photos":"https://i.postimg.cc/K8v0CYqX/ayyappanum-koshi.jpg",
+            "staring":"Prithvi Raj ,Biju Menon , Renjith ",
+            "Published date":"2019"
+        },
+        {
+            "id":4,
+            "name":"Pachuvum Albhudha vilakku",
+            "photos":"https://i.postimg.cc/zDt59mBQ/pachuvum-Albhudha-Vilakkum.jpg",
+            "staring":"Fahad Fasil , Ahana Krishna , Vinneth , Sandhi Krishna",
+            "Published date":"2019"
+        },
+        {
+            "id":5,
+            "name":"PS 1",
+            "photos":"https://i.postimg.cc/zGMNF50w/ps-1.jpg",
+            "staring":"Aiswarya Rai , Aiswarya Lakshmi ,Jayam Ravi , Vikram , Trisha ",
+            "Published date":"2022"
+        },
+        {
+            "id":7,
+            "name":"PS 2",
+            "photos":"https://i.postimg.cc/NFvxwybs/PS2.jpg",
+            "staring":"Aiswarya Rai , Aiswarya Lakshmi ,Jayam Ravi , Vikram , Trisha ",
+            "Published date":"2023"
+        },
+        {
+            "id":7,
+            "name":"Shakundhalam",
+            "photos":"https://i.postimg.cc/28rnCNdx/shakundhalam.jpg",
+            "staring":"Samandha , Dev mohan , Prakash Raj , Madhoo",
+            "Published date":"2023"
+        },
+        {
+            "id":8,
+            "name":"Kaduva",
+            "photos":"https://i.postimg.cc/25ySw2Qv/kaduva.jpg",
+            "staring":"Samyuktha , Prithviraj , Vivek Oberoi",
+            "Published date":"2022"
+        },
+        {
+            "id":9,
+            "name":"Jai Bhim",
+            "photos":"https://i.postimg.cc/NGCLzyGm/Jai-Bhim.jpg",
+            "staring":"Samyuktha , Prithviraj , Vivek Oberoi",
+            "Published date":"2022"
+        },
+        {
+            "id":10,
+            "name":"Ayisha",
+            "photos":"https://i.postimg.cc/qRhMfwvK/ayisha.jpg",
+            "staring":"Manju Warior , Radhika , Krishna Shankar",
+            "Published date":"2023"
+        }
+    ]
+}
